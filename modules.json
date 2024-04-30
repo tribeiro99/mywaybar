@@ -56,13 +56,7 @@
         "separate-outputs": true
     },
 
-    // ML4W Welcome App
-    "custom/ml4w-welcome": {
-        "on-click": "~/dotfiles/apps/ML4W_Welcome-x86_64.AppImage",
-        "format": " ",
-        "tooltip": false
-    },
-
+  
     // Empty
     "custom/empty": {
         "format": ""
